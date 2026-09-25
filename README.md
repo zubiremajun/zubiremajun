@@ -36,9 +36,8 @@ Passionate and solution-oriented Software Developer specializing in building cro
 ---
 
 ### 📊 GitHub Analytics
-![Zubair's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=zubiremajun&show_icons=true&theme=tokyonight)
+![Zubair's GitHub Stats](https://github-readme-stats.pw/api?username=zubiremajun&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=zubiremajun&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.pw/api/top-langs/?username=zubiremajun&layout=compact&theme=tokyonight)
 
 ![Zubair's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zubiremajun&theme=tokyonight)
-
