@@ -1,7 +1,7 @@
 # Hi there, I'm Zubair Osmani 👋
 ### 🚀 Mobile & Web App Developer | Flutter, JavaScript & Firebase
 
-![Visitor Count](https://komarev.com/ghpvc/?username=zubiremajun&color=bluestyle=flat-square)
+![Visitor Count](https://komarev.com/ghpvc/?username=zubiremajun&color=blue&style=flat-square)
 
 Passionate and solution-oriented Software Developer specializing in building cross-platform mobile applications and modern web applications. Dedicated to writing clean, maintainable code and delivering exceptional user experiences.
 
@@ -36,11 +36,9 @@ Passionate and solution-oriented Software Developer specializing in building cro
 ---
 
 ### 📊 GitHub Analytics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zubiremajun&show_icons=true&theme=tokyonight" alt="Zubair's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zubiremajun&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
-</p>
+![Zubair's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=zubiremajun&show_icons=true&theme=tokyonight)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zubiremajun&theme=tokyonight" alt="Zubair's GitHub Streak" />
-</p>
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=zubiremajun&layout=compact&theme=tokyonight)
+
+![Zubair's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zubiremajun&theme=tokyonight)
+
