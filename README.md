@@ -1,7 +1,7 @@
 # Hi there, I'm Zubair Osmani 549 👋
 ### 🚀 Mobile & Web App Developer | Flutter, JavaScript & Firebase
 
-![Visitor Count](https://komarev.com/ghpvc/?username=zubiremajun&color=blue&style=flat-square)
+![Visitor Count](https://komarev.com/ghpvc/?username=zubiremajun&color=blue&style=flat-square) [![Flag Counter](https://s01.flagcounter.com/count2/P8T1/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_6/viewers_0/labels_0/pageviews_1/flags_0/percent_0/)](https://info.flagcounter.com/P8T1)
 
 Passionate and solution-oriented Software Developer specializing in building cross-platform mobile applications and modern web applications. Dedicated to writing clean, maintainable code and delivering exceptional user experiences.
 
@@ -37,4 +37,3 @@ Passionate and solution-oriented Software Developer specializing in building cro
 
 ### 📈 Contribution Activity
 ![Zubair's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zubiremajun&theme=tokyonight)
-
