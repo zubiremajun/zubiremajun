@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi there, I'm Zubair Osmani 👋
+### 🚀 Mobile & Web App Developer | Flutter, JavaScript & Firebase
 
-<!--
-**zubiremajun/zubiremajun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Visitor Count](https://komarev.com/ghpvc/?username=zubiremajun&color=bluestyle=flat-square)
 
-Here are some ideas to get you started:
+Passionate and solution-oriented Software Developer specializing in building cross-platform mobile applications and modern web applications. Dedicated to writing clean, maintainable code and delivering exceptional user experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🌐 Connect with Me
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/1DcyNmnJzV/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/zubirosmani549)
+[![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/MdZubair1192838)
+[![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.com/@zubirosmani549)
+
+---
+
+### 💻 Technical Skills
+- 📱 **Mobile Development:** Flutter, Dart, Android App Development
+- 🌐 **Web Development:** HTML5, CSS3, JavaScript (ES6+), Responsive Design
+- 🗄️ **Backend & Database:** Firebase Realtime Database, Authentication, REST APIs
+- 🛠️ **Tools & Version Control:** Git, GitHub, VS Code
+
+---
+
+### 🛠️ Tech Stack & Technologies
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+### 📊 GitHub Analytics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zubiremajun&show_icons=true&theme=tokyonight" alt="Zubair's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zubiremajun&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zubiremajun&theme=tokyonight" alt="Zubair's GitHub Streak" />
+</p>
