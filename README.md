@@ -35,8 +35,6 @@ Passionate and solution-oriented Software Developer specializing in building cro
 
 ---
 
-### 📈 Contribution Graph & Activity
-![Zubair's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=zubiremajun&theme=tokyo-night)
-
+### 📈 Contribution Activity
 ![Zubair's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zubiremajun&theme=tokyonight)
 
